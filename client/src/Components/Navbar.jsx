@@ -8,7 +8,7 @@ const Header = () => {
     setMenuOpen(!isMenuOpen);
   };
   return (
-    <nav className="bg-gray-500 p-4">
+    <nav className="bg-black p-4">
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
           <span className="text-white text-xl font-semibold">Tasker</span>

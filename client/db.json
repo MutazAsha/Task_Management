@@ -1,0 +1,64 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete project proposal",
+      "description": "Write a detailed proposal for the upcoming project",
+      "due_date": "2023-11-30",
+      "priority": "High"
+    },
+    {
+      "id": 2,
+      "title": "Buy groceries",
+      "description": "Make a list and buy essential groceries for the week",
+      "due_date": "2023-12-05",
+      "priority": "Medium"
+    },
+    {
+      "id": 3,
+      "title": "Prepare for meeting",
+      "description": "Review documents and prepare notes for the client meeting",
+      "due_date": "2023-11-20",
+      "priority": "High"
+    },
+    {
+      "id": 4,
+      "title": "Exercise",
+      "description": "Go for a jog or visit the gym",
+      "due_date": "2023-11-25",
+      "priority": "Low"
+    },
+    {
+      "title": "efeve",
+      "description": "rf4tbgbtb",
+      "dueDate": "2023-11-08",
+      "priority": "medium",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "ujjjjj",
+      "description": "llllllllllllllllll",
+      "dueDate": "2023-10-30",
+      "priority": "medium",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "gggreg",
+      "description": "erqgte",
+      "dueDate": "21324-02-04",
+      "priority": "low",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "title": "sadfew",
+      "description": "asfef",
+      "dueDate": "2023-11-09",
+      "priority": "medium",
+      "completed": false,
+      "id": 8
+    }
+  ]
+}
